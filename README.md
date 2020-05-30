@@ -20,7 +20,7 @@ create handouts, articles and books:
 * [Tufte-LaTeX](https://github.com/Tufte-LaTeX/tufte-latex): This project is
 a collection of "LaTeX classes for producing handouts and books according to 
 the style of Edward R. Tufte and Richard Feynman". They are already neatley
-integrated in R Markdown, thanks to the [`tufte R package`](https://github.com/rstudio/tufte).
+integrated in R Markdown, thanks to the [`tufte`](https://github.com/rstudio/tufte) R package.
 The first part of this book will cover how to tweak and expand these classes
 to change the aspect of your documents and add additional elements.
 * [`memoir`](https://www.ctan.org/pkg/memoir): A LaTeX class that is easily
