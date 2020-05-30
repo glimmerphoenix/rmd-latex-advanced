@@ -17,9 +17,24 @@ advice, tips and best practices that you can readily incorporate in your documen
 In particular, I plan to focus on three well-known LaTeX document classes to
 create handouts, articles and books:
 
-*
-*
-*
+* [Tufte-LaTeX](https://github.com/Tufte-LaTeX/tufte-latex): This project is
+a collection of "LaTeX classes for producing handouts and books according to 
+the style of Edward R. Tufte and Richard Feynman". They are already neatley
+integrated in R Markdown, thanks to the [`tufte R package`](https://github.com/rstudio/tufte).
+The first part of this book will cover how to tweak and expand these classes
+to change the aspect of your documents and add additional elements.
+* [`memoir`](https://www.ctan.org/pkg/memoir): A LaTeX class that is easily
+customizable and includes a ton of features from other packages, providing
+a standard interface. It is one of the common options to create books
+in LaTeX using advanced typesetting features.
+* [`koma-script`](https://www.ctan.org/pkg/koma-script): KOMA-Script
+is a bundle of classes and packages for advanced typesetting of articles, letters,
+reports and books. It is also highly customizable, with a long list of
+options to tweak almos every aspect of your documents.
+
+In the end, I also plan to provide several templates based on the examples and
+mini-projects included in the book, so you can readily experiment with them and
+adapt the code to your own purposes.
 
 ## References
 
@@ -27,10 +42,12 @@ create handouts, articles and books:
 
 * The [TeX - LaTeX site at SE](https://tex.stackexchange.com) is an invaluable resource
 to find answers to many questions on your daily work with LaTeX (and even R Markdown too).
-You can also find good advice from expert LaTeX users. I will refer to this this
-site frequenty as `TeX-SE`.
+You can also find good advice from expert LaTeX users. I will refer to this
+site as `TeX-SE`.
 
-* 
+* Stack Overflow is another good source of useful answers and good advice on R Markdown.
+You can start searching through [questions tagged as `r-markdown`](https://stackoverflow.com/questions/tagged/r-markdown).
+I will refeer to this site as `SO-SE`.
 
 **R Markdown**
 
