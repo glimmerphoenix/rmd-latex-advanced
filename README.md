@@ -63,7 +63,7 @@ is also co-authored by two lead developers of R Markdown packages.
 
 * One of my favourite references to learn LaTeX is ["The Not So Short Introduction
 to LaTeX 2e"](https://tobi.oetiker.ch/lshort/lshort.pdf). It may take
-you a bit more than the 139 minutes shown on its front page, but I always find
+you a bit more than the 139 minutes it says on its front page, but I always find
 it an excellent resource to get a solid understanding of LaTeX principles, tools,
 work flow and important packages. It also includes relevant information about
 [`pdflatex`](https://www.overleaf.com/learn/latex/Articles%2FThe_TeX_family_tree:_LaTeX,_pdfTeX,_XeTeX,_LuaTeX_and_ConTeXt#pdfTeX)
@@ -75,7 +75,7 @@ that produce PDF output.
 It has an extensive collection of articles explaining many aspects of LaTeX programming,
 tools, work flow, etc. 
 
-* Finally, more advanced users may also like the venerable [LaTeX Companion, 2ed](https://www.informit.com/store/latex-companion-9780201362992), written by some contributors of the LaTeX project.
+* Finally, more advanced users may also like the venerable [LaTeX Companion, 2ed](https://www.informit.com/store/latex-companion-9780201362992), written by some contributors to the LaTeX project.
 
 * In [this TeX-SE question](https://tex.stackexchange.com/questions/262901/about-the-latex-companion-second-edition)
 you can find some additional suggestions.
