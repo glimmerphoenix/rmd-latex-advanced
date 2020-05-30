@@ -7,7 +7,7 @@ trying to find examples, tools and best practices to create PDF documents that l
 good. This is an important step to communicate results from data science projects
 effectively.
 
-I assume that you have some working knowledge about RMarkdown and LaTex. If that is
+I assume that you have some working knowledge about RMarkdown and LaTeX. If that is
 not the case, you should read some references first to get acquainted with these
 technologies. See the **References** section below to get some reliable
 pointers.
