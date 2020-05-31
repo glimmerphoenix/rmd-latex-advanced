@@ -9,7 +9,7 @@ effectively (as well as producing web content, of course).
 
 I assume that you have some working knowledge about R Markdown and LaTeX. If that is
 not the case, you should read some references first, to get acquainted with these
-technologies. See the **References** section below to get some reliable
+technologies. See the [References](#references) section below to get some reliable
 pointers.
 
 Hopefully, when this book is completed it will comprise templates, practical
