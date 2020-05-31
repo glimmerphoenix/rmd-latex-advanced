@@ -51,7 +51,7 @@ I will refeer to this site as `SO-SE`.
 
 **R Markdown**
 
-* The book ["R Markdown: The Definitive Guide"] is a broad and accessible introduction
+* The book ["R Markdown: The Definitive Guide"](https://bookdown.org/yihui/rmarkdown/) is a broad and accessible introduction
 to R Markdown, co-authored by the leading developer of the project, 
 [Yiui Xie](https://yihui.org/en/about/).
 
