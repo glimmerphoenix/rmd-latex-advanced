@@ -41,7 +41,7 @@ adapt the code to your own purposes.
 **Q&A sites**
 
 * The [TeX - LaTeX site at SE](https://tex.stackexchange.com) is an invaluable resource
-to find answers to many questions on your daily work with LaTeX (and even R Markdown too).
+to find answers to many questions about LaTeX (and even R Markdown too).
 You can also find good advice from expert LaTeX users. I will refer to this
 site as `TeX-SE`.
 
